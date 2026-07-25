@@ -24,4 +24,12 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Math
+|  |
+| ------- |
+| [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
