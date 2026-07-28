@@ -31,5 +31,14 @@ This repo will contain solution of Leetcode problems in optimized form.
 ## Sorting
 |  |
 | ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
+## String
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
