@@ -9,6 +9,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0001-two-sum](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0027-remove-element) |
+| [0119-pascals-triangle-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -42,4 +43,8 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
