@@ -22,6 +22,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
