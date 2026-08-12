@@ -32,6 +32,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0009-palindrome-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
