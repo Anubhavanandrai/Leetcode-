@@ -31,6 +31,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0007-reverse-integer) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
