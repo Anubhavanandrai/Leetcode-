@@ -25,6 +25,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
