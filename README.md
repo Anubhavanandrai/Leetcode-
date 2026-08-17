@@ -12,11 +12,13 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0048-rotate-image](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,8 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0048-rotate-image) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
