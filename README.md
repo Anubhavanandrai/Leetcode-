@@ -21,6 +21,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0001-two-sum](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,10 +54,12 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
