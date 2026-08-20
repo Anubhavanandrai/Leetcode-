@@ -13,12 +13,14 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0119-pascals-triangle-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,16 +34,19 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## String
@@ -71,4 +76,8 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
