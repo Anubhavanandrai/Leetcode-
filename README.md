@@ -19,6 +19,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
@@ -27,6 +28,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -69,6 +71,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
