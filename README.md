@@ -48,6 +48,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0007-reverse-integer](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0048-rotate-image) |
+| [0168-excel-sheet-column-title](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
@@ -61,6 +62,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
