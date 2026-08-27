@@ -60,6 +60,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
@@ -98,4 +99,12 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
