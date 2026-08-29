@@ -1,0 +1,39 @@
+class Solution {
+    public int differenceOfSum(int[] nums) {
+        int sum =0;
+        int sum2=0;
+        for(int x :nums)
+        {
+            sum+=x;
+        }
+        System.out.println("sum is: "+sum);
+
+        for(int x :nums)
+        {
+          if(x<10)
+          {
+            sum2+=x;
+            System.out.println("sum2 in x<10  is: "+sum2);
+          }  
+
+         else{
+           while(x>=1)
+           {
+            int digit = x% 10;
+            sum2 = sum2 +digit;
+            x = x/10;
+            }
+            System.out.println("sum2 in x>10  is: "+sum2);
+         }
+        }
+               System.out.println("sum2 is: "+sum2);
+       if(sum>sum2)
+       {
+        return sum-sum2;
+       }
+       
+
+        return sum2-sum;
+       
+    }
+}
