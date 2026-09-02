@@ -1,0 +1,37 @@
+class Solution {
+    public String clearDigits(String s) {
+
+  //in this problem i am going to learn how to differentiate between character and integer.
+  //Character class has a method named isDigit and isLetter
+
+  char[] ch = s.toCharArray();
+  StringBuilder sb = new StringBuilder();
+
+  Stack<Character> st = new Stack<>();
+
+  for( char c:ch)
+  {
+     if(Character.isLetter(c))
+     {
+        st.push(c);
+     }
+     if(Character.isDigit(c))
+     {
+        if(Character.isLetter(st.peek()))
+        {
+            st.pop();
+        }
+       else if(Character.isDigit(st.peek()))
+        {
+            st.push(c);
+        }
+     }
+  }
+  
+  while(st.size()>0)
+  {
+    sb.append(st.pop());  
+  }
+ return sb.reverse().toString();
+    }
+}
