@@ -1,0 +1,50 @@
+class Solution {
+    public int minLength(String s) {
+        
+  char[] ch = s.toCharArray();
+  StringBuilder sb = new StringBuilder();
+
+  Stack<Character> st = new Stack<>();
+
+  for(char c:ch)
+  {
+     if(c=='B')
+     {  
+          if(st.size()>0)
+        {
+          if(st.peek()=='A')
+          { 
+            st.pop();
+          }
+          else{
+            st.push(c);
+          }
+        }
+        else{
+            st.push(c);
+        }  
+     }
+    else if(c=='D')
+     {
+     if(st.size()>0)
+        {
+           if(st.peek()=='C')
+          { 
+            st.pop();
+          }
+            else{
+            st.push(c);
+          }
+        }
+           else{
+            st.push(c);
+        }    
+     }
+    else{
+        st.push(c);
+    }
+  }
+  
+ return st.size();
+    }
+}
