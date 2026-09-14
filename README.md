@@ -16,6 +16,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
