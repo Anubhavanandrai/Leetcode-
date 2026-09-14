@@ -14,6 +14,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0283-move-zeroes) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0141-linked-list-cycle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
