@@ -66,6 +66,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0038-count-and-say) |
 | [0168-excel-sheet-column-title](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
