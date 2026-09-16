@@ -56,6 +56,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0048-rotate-image](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1013-fibonacci-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -84,6 +85,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1013-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -117,4 +119,12 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
