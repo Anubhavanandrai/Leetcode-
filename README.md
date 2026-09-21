@@ -60,6 +60,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0258-add-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1013-fibonacci-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
