@@ -19,6 +19,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0948-sort-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0948-sort-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3226-minimum-number-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0948-sort-an-array) |
+| [3226-minimum-number-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3226-minimum-number-game) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
 ## String
@@ -139,6 +141,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0948-sort-an-array) |
+| [3226-minimum-number-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -155,6 +158,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
