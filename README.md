@@ -56,6 +56,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0009-palindrome-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1013-fibonacci-number) |
 | [3859-maximum-product-of-two-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3859-maximum-product-of-two-digits) |
@@ -150,4 +151,12 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0948-sort-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
