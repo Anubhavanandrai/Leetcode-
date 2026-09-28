@@ -104,6 +104,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0908-middle-of-the-linked-list) |
@@ -136,6 +137,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -181,11 +183,11 @@ This repo will contain solution of Leetcode problems in optimized form.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0214-shortest-palindrome) |
-## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -201,7 +203,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0214-shortest-palindrome) |
-## KnuthÃÂ¢ÃÂÃÂMorrisÃÂ¢ÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂ¢ÃÂÃÂÃÂÃÂMorrisÃÂÃÂ¢ÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0214-shortest-palindrome) |
