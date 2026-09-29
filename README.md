@@ -32,6 +32,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0389-find-the-difference) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0088-merge-sorted-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0948-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3226-minimum-number-game) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
@@ -88,6 +90,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | [0242-valid-anagram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0389-find-the-difference) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -125,6 +128,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 | ------- |
 | [0136-single-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0389-find-the-difference) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -190,11 +194,11 @@ This repo will contain solution of Leetcode problems in optimized form.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0214-shortest-palindrome) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -210,7 +214,7 @@ This repo will contain solution of Leetcode problems in optimized form.
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0214-shortest-palindrome) |
-## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
+## KnuthÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMorrisÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂPratt Algorithm
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0214-shortest-palindrome) |
