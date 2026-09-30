@@ -1,3 +1,6 @@
+//Here my intution was if i sort the array then strings will be lexicographyically sorted means one starting with a will be first and with z at last.So the first will be toatlly different from last and this is how we will start comparing chaacter by character
+
+
 class Solution {
     public String longestCommonPrefix(String[] strs) {
            StringBuilder sb= new StringBuilder();
