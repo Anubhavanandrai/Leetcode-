@@ -1,3 +1,5 @@
+//here i come to know how can we do string questions in one pass without any hard algorithm just 2 pointers
+
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         
