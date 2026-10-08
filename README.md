@@ -25,4 +25,16 @@
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3321-type-of-triangle) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
