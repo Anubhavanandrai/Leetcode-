@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1791-richest-customer-wealth) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3321-type-of-triangle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
@@ -37,4 +38,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
