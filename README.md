@@ -8,6 +8,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3321-type-of-triangle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3321-type-of-triangle) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3515-find-if-digit-game-can-be-won) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Anubhavanandrai/Leetcode-/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3321-type-of-triangle) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Anubhavanandrai/Leetcode-/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Polygons
 |  |
 | ------- |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Anubhavanandrai/Leetcode-/tree/master/4078-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
