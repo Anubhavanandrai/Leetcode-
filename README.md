@@ -56,6 +56,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -84,4 +87,12 @@
 |  |
 | ------- |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Anubhavanandrai/Leetcode-/tree/master/4078-maximum-alternating-sum-of-squares) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
