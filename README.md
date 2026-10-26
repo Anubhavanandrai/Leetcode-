@@ -90,9 +90,14 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
