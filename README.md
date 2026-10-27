@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0682-baseball-game) |
+| [1293-three-consecutive-odds](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1791-richest-customer-wealth) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3321-type-of-triangle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3321-type-of-triangle) |
