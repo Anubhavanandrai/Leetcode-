@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0682-baseball-game) |
 | [1791-richest-customer-wealth](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1791-richest-customer-wealth) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Anubhavanandrai/Leetcode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3321-type-of-triangle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3321-type-of-triangle) |
@@ -35,6 +36,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
