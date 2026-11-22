@@ -70,6 +70,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
+| [0547-number-of-provinces](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0100-same-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
@@ -107,4 +109,12 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0682-baseball-game) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
