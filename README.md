@@ -98,6 +98,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0257-binary-tree-paths) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [1610-xor-operation-in-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1610-xor-operation-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
