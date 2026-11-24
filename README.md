@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0189-rotate-array) |
 | [0682-baseball-game](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0682-baseball-game) |
 | [1293-three-consecutive-odds](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1293-three-consecutive-odds) |
 | [1791-richest-customer-wealth](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1791-richest-customer-wealth) |
@@ -18,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0189-rotate-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1610-xor-operation-in-an-array) |
 | [3321-type-of-triangle](https://github.com/Anubhavanandrai/Leetcode-/tree/master/3321-type-of-triangle) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
