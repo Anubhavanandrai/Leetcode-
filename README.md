@@ -19,6 +19,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0189-rotate-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1610-xor-operation-in-an-array) |
@@ -130,4 +131,12 @@
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Anubhavanandrai/Leetcode-/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anubhavanandrai/Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
